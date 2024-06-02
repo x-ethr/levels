@@ -1,4 +1,4 @@
-# `environment` - Environment Logging
+# `levels` - `log/slog` Logging Levels and Settings
 
 ## Documentation
 
